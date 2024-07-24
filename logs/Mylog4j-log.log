@@ -1,0 +1,6 @@
+[ERROR]2024-06-2623:59:42.489[main]dsutilities.LoggerLoad1)-<---Error Text-->
+[WARN ]2024-06-2623:59:42.497[main]dsutilities.LoggerLoad1)-<----Test Warn---->
+[INFO ]2024-06-2623:59:42.497[main]dsutilities.LoggerLoad1)-<---Info text-->
+[ERROR]2024-06-2700:09:37.615[main]dsutilities.LoggerLoad1)-<---Error Text-->
+[WARN ]2024-06-2700:09:37.622[main]dsutilities.LoggerLoad1)-<----Test Warn---->
+[INFO ]2024-06-2700:09:37.623[main]dsutilities.LoggerLoad1)-<---Info text-->
