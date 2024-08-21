@@ -50,6 +50,7 @@ public class Pagefactorymethod {
 		my_info.click();
 		Thread.sleep(2000);
 //		firstname.click();
+		//firstname.sendKeys(Keys.ENTER);
 		firstname.sendKeys(Keys.CONTROL,"a");
 		firstname.sendKeys(Keys.BACK_SPACE,"Archana");
 		Thread.sleep(2000);
